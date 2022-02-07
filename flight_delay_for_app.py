@@ -16,7 +16,7 @@ st.sidebar.info(
     """
 )
 st.sidebar.info("Feel free to collaborate and comment on the work. The github link can be found "
-                "[here](https://github.com/sv-zeynalova/ML_course).")
+                "[here](https://github.com/sv-zeynalova/Flight-delays-project).")
 data_load_state = st.text('Loading data...')
 
 @st.cache
